@@ -9,4 +9,5 @@ test('renders the portfolio projects', () => {
   expect(screen.getByText(/audio transcriber ai/i)).toBeDefined();
   expect(screen.getByText(/panoramic studio/i)).toBeDefined();
   expect(screen.getByText(/exo market/i)).toBeDefined();
+  expect(screen.getByText(/álbum de fotos de sofía/i)).toBeDefined();
 });

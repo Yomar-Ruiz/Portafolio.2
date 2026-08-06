@@ -15,6 +15,11 @@ const projects = [
     title: 'Exo Market',
     description: 'Plataforma digital para explorar productos y servicios con una interfaz moderna y simple.',
     url: 'https://exo-market-5fcd.vercel.app/'
+  },
+  {
+    title: 'Álbum de fotos de Sofía',
+    description: 'Un álbum de fotos elegante y emotivo dedicado a Sofía, con una experiencia visual cuidada y romántica.',
+    url: 'https://sofia-primera.vercel.app/'
   }
 ];
 

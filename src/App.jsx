@@ -21,6 +21,11 @@ const projects = [
     description: 'Un álbum de fotos elegante y emotivo dedicado a Sofía, con una experiencia visual cuidada y romántica.',
     url: 'https://sofia-primera.vercel.app/'
   }
+  {
+    title: 'Pokedex Kanto',
+    description: 'Una web con todos los pokemones de la primera region y generacion de pokemon.',
+    url: 'https://pokedex-eta-orpin.vercel.app/'
+  }
 ];
 
 function App() {

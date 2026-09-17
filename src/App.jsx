@@ -2,6 +2,16 @@ import './App.css';
 
 const projects = [
   {
+    title: 'The Vault of the secret games',
+    description: 'Aplicacion full stack de una web de opiniones de mas de 900k juegos',
+    url: 'https://the-vault-of-secret-games.vercel.app/'
+  },
+  {
+    title: 'Pokedex Kanto',
+    description: 'Una web con todos los pokemones de la primera region y generacion de pokemon.',
+    url: 'https://pokedex-eta-orpin.vercel.app/'
+  },
+  {
     title: 'Audio Transcriber AI',
     description: 'Aplicación para transcribir audio con inteligencia artificial y organizar resultados de forma clara.',
     url: 'https://audio-transcriber-ai-nu.vercel.app/'
@@ -20,11 +30,6 @@ const projects = [
     title: 'Álbum de fotos de Sofía',
     description: 'Un álbum de fotos elegante y emotivo dedicado a Sofía, con una experiencia visual cuidada y romántica.',
     url: 'https://sofia-primera.vercel.app/'
-  },
-  {
-    title: 'Pokedex Kanto',
-    description: 'Una web con todos los pokemones de la primera region y generacion de pokemon.',
-    url: 'https://pokedex-eta-orpin.vercel.app/'
   }
 ];
 
